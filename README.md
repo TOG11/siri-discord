@@ -14,3 +14,11 @@ Once you've got a phone number from Twilio download the following (if not alread
 [VSCODE](https://code.visualstudio.com/)
 
 [NODE.JS](https://nodejs.org/en/)
+
+Once these are installed create a new directory on your computer.
+inside that directory create a index.js file.</P>
+in the project directory bar type "cmd", this will open a terminal.
+
+in that terminal type "**npm init -y**", after that is done type in "**npm i discord.js**", "**npm i body-parser**", "**npm i express**"
+
+then open the index.js in Vscode, and paste the code from code.js into it.
